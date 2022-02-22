@@ -24,7 +24,7 @@
     "templateParts": [
 		{
 			"name": "header",
-			"title": "Header - Standard",
+			"title": "Header",
 			"area": "header"
 		},
 		{
