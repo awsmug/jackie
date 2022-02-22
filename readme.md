@@ -1,4 +1,5 @@
-# Jackie - An experimental WooCommerce Full Site Editing (FSE) Theme
+# Jackie
+## An experimental WooCommerce Full Site Editing (FSE) Theme
 
 To install the theme depencies type in:
 
