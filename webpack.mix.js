@@ -22,15 +22,8 @@ mix
         processCssUrls: false
     });
 
-mix.less('src/_legacy/_legacy.less', 'assets/css');
-mix.js('src/_legacy/_legacy.js', 'assets/js');
-
 mix.minify( 'assets/css/editor.css' );
 mix.minify( 'assets/css/frontend.css' );
 
 mix.minify( 'assets/js/editor.js' );
 mix.minify( 'assets/js/frontend.js' );
-
-mix.minify( 'assets/js/_legacy.js' );
-mix.minify( 'assets/css/_legacy.css' );
-mix.minify( 'assets/css/_legacy.css' );
